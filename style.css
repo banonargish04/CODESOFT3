@@ -1,0 +1,40 @@
+body{
+    background-color:whitesmoke;
+}
+h0{
+    color:whitesmoke;
+    background-color: #694F8E; 
+    font-size:70px;
+    font-family:'Cavert',cursive;
+    text-transform:uppercase ;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.three{
+    font-size:30px;
+    font-family:'Cavert',cursive;
+    font-weight: bold;
+    text-align: right;
+    padding-left:40px ;
+
+}
+
+.two{
+    padding-left:50px;
+}
+
+
+ .one {
+    color:whitesmoke;
+    font-family:'Cavert',cursive;
+    font-size:40px;
+    text-transform: uppercase;
+    font-weight: bold ;
+    text-align:center;
+
+}
+
+
+
